@@ -1,0 +1,7 @@
+#Ignore temp and log files
+*.log
+*.tmp
+
+# Ignore Build and IDE folders
+bin/
+.vscode/
