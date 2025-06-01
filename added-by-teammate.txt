@@ -1,1 +1,2 @@
 This was added directly on GitHub to simulate a teammate’s change.
+This line was added locally using VS Code Git UI.
